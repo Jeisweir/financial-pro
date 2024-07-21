@@ -1,0 +1,40 @@
+{
+  "accounts": [
+    {
+      "id": "Ac0x-709039",
+      "accountName": "Cuenta nueva",
+      "entityName": "Binance",
+      "type": "Wallet Crypto",
+      "currency": "USD",
+      "balance": 0,
+      "creationDate": "Sun, July 7th 2024"
+    },
+    {
+      "id": "Ac0x-179942",
+      "accountName": "nueva cuenta",
+      "entityName": "ndv",
+      "type": "Wallet",
+      "currency": "USD",
+      "balance": 0,
+      "creationDate": "Wed, July 10th 2024"
+    },
+    {
+      "id": "Ac0x-723948",
+      "accountName": "nueva cuenta",
+      "entityName": "entidad nueva",
+      "type": "Wallet",
+      "currency": "USD",
+      "balance": 0,
+      "creationDate": "Sun, July 21st 2024"
+    },
+    {
+      "id": "Ac0x-631972",
+      "accountName": "nueva c",
+      "entityName": "kja",
+      "type": "Bank",
+      "currency": "VES",
+      "balance": 0,
+      "creationDate": "Sun, July 21st 2024"
+    }
+  ]
+}
